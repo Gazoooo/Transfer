@@ -3,7 +3,7 @@
 ## How to use:
 1. Head to the **Releases** on the right
 2. Double-click the **ready-to-distribute.zip** to download it
-3. **Run** the **main.exe** on your local machine
+3. Unzip the folder and **run** the **main.exe** in it on your local machine
 
 
 ### Notes:
